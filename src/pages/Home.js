@@ -74,14 +74,14 @@ const Home = () => {
                             href=""
                             className="createNewBtn"
                         >
-                            new room
+                            New Room
                         </a>
                     </span>
                 </div>
             </div>
             <footer>
                 <h4>
-                    Made with 💕 &nbsp; by &nbsp;
+                    Made with  💕 &nbsp; by &nbsp;
                     <a href="https://www.linkedin.com/in/bhavya-srivastava-80048a201/" target="_blank">Bhavyaa</a>
                 </h4>
             </footer>
